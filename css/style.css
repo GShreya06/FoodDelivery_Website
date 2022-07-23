@@ -193,7 +193,7 @@
 
 /* Contact us */
 
-#contact-section{
+#contact-section {
     position: relative;
 }
 
@@ -206,15 +206,15 @@
     z-index: -1;
     opacity: 0.5;
 }
-#contact-box{
+
+#contact-box {
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 34px;
 }
 
-#contact-box input,
-#contact-box textarea{
+#contact-box input {
     position: relative;
     border: 2px solid black;
     margin: auto;
@@ -223,15 +223,22 @@
     border-radius: 9px;
 }
 
-#contact-box form{
+#contact-box form {
     width: 40%;
+    padding: 150px;
 
 }
 
-#contact-box label{
-    font-size:1.3rem;
+#contact-box .form-group {
+    padding: 15px;
+
+}
+
+#contact-box label {
+    font-size: 1.3rem;
     font-family: 'Bree Serif', serif;
-    
+    margin: auto;
+
 }
 
 #contact-box button {
@@ -243,10 +250,10 @@
 
 /* Footer */
 
-footer{
+footer {
     background-color: black;
     color: white;
-    padding: 10px 90px;
+    padding: 10px 690px;
 }
 
 
