@@ -135,7 +135,7 @@
 
 #services .box {
     border: 2px solid brown;
-    margin: 3px 6px;
+    margin: 14px 33px;
     padding: 56px;
     border-radius: 23px;
     background-color: rgb(239 227 227);
@@ -238,6 +238,7 @@
     font-size: 1.3rem;
     font-family: 'Bree Serif', serif;
     margin: auto;
+    padding: 28px;
 
 }
 
