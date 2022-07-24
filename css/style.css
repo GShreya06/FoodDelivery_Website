@@ -4,7 +4,10 @@
     padding: 0;
 
 }
+html{
+    scroll-behavior: smooth;
 
+}
 
 /* CSS variables */
 :root {
@@ -15,8 +18,9 @@
 #navbar {
     display: flex;
     align-items: center;
-    position: relative;
     font-family: 'Baloo Bhai 2', cursive;
+    top: 0px;
+    position: sticky;
 
 }
 
