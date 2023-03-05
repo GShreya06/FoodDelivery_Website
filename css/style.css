@@ -87,7 +87,7 @@ html{
     display: flex;
     flex-direction: column;
     padding: 3px 200px;
-    height: 744px;
+    height: 520px;
     justify-content: center;
     align-items: center;
 }
@@ -117,7 +117,7 @@ html{
     font-family: 'Bree Serif', serif;
 }
 
-.btn {
+#btn {
     padding: 6px 20px;
     border: 2px solid white;
     background-color: rgb(228, 97, 97);
